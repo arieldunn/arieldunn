@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arieldunn
-- 👀 I’m interested in developing 
-- 🌱 I’m currently learning too analyze data
+- 👀 I’m interested in data visualization 
+- 🌱 I’m currently learning to analyze data
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me arieldunn@me.com
 
