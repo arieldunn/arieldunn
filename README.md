@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @arieldunn
+- 💼 Aspiring Analyst Resume https://arieldunn.github.io
 - 👀 I’m interested in data visualization 
 - 🌱 I’m currently analyzing data, mainly using python, sql, and tableau.
 - 💞️ I’m looking to collaborate on everything
